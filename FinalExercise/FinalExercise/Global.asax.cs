@@ -6,6 +6,8 @@ using System.Web.Mvc;
 using System.Web.Routing;
 using FinalExercise.Context;
 using System.Data.Entity;
+using FinalExercise.App_Start;
+using System.Web.Optimization;
 
 namespace FinalExercise
 {
